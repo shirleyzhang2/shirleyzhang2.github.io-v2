@@ -3,8 +3,6 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-#- title: About
-#  url: /#about
 - title: About
   url: /about
 #- title: Interests
@@ -13,7 +11,7 @@ header:
 #  url: /#members
 #- title: History
 #  url: /#timeline
-- title: Contacts
-  url: /#contacts
-#- title: Links
-#  url: /links
+#- title: Contacts
+#  url: /#contacts
+- title: Projects
+  url: /projects

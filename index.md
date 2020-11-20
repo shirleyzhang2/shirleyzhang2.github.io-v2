@@ -28,17 +28,17 @@ sections:
     title: My Interests
     services:
       - title: Structural Design & Analysis
-        text: Our templates are updated regularly so they don't break.
+        text: 
         icon: fa-gem text-info
         #url: https://startbootstrap.com/
       - title: Automation
-        text: You can use this theme as is, or you can make changes!
+        text: 
         icon: fa-paper-plane
       - title: Earthquake Engineering
-        text: We update dependencies to keep things fresh.
+        text: 
         icon: fa-laptop-code
       - title: Forensic Engineering
-        text: You have to make your websites with love these days!
+        text: 
         icon: fa-heart
       # - title: Other 1
       #   text: Some not-so long text here.
@@ -52,41 +52,41 @@ sections:
     #section_id: portfolio
     #background_style: bg-dark
     projects:
-      - title: Project 1
-        text: This is a very short project description.
+      - title: Terrestrial Energy Inc.
+        text: Civil Engineering Internship
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '#'
-      - title: Project 2
-        text: This is a very short project description.
+        url: 'project'
+      - title: Arup
+        text: Structural Engineering Internship
         icon: 2.jpg
-        url: '#'
-      - title: Project 3
-        text: This is a very short project description.
+        url: 'project'
+      - title: Rocscience
+        text: Geotechnical Software Internship
         icon: 3.jpg
-        url: '#'
-      - title: Project 4
-        text: This is a very short project description.
+        url: 'project'
+      - title: U of T Seismic Design Team
+        text: Team Co-Captain
         icon: 4.jpg
-        url: '#'
-      - title: Project 5
-        text: This is a very short project description.
+        url: 'project'
+      - title: U of T Concrete Canoe Team
+        text: Technical Director
         icon: 5.jpg
-        url: '#'
-      - title: Project 6
-        text: This is a very short project description.
+        url: 'project'
+      - title: Steel Design Project
+        text: A Four Storey Steel Building
         icon: 6.jpg
-        url: '#'
+        url: 'project'
 
-  - type: aside.html
-    section_id: aside
-    title: Free Download at Start Bootstrap!
-    actions:
-      - title: Download Now!
-        url: https://startbootstrap.com/themes/creative/
-        class: btn-light
+  # - type: aside.html
+  #   section_id: aside
+  #   title: Free Download at Start Bootstrap!
+  #   actions:
+  #     - title: Download Now!
+  #       url: https://startbootstrap.com/themes/creative/
+  #       class: btn-light
 
   # - type: members.html
   #   section_id: members
@@ -141,10 +141,10 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Let's Get In Touch!
-    text: >-
-      Ready to start your next project with us? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+    title: Contact Me!
+    text: #>-
+      #Ready to start your next project with us? Give us a call or send us an email
+      #and we will get back to you as soon as possible!
     actions:
     #- title: +1 (202) 555-014
     #  icon: fa-phone

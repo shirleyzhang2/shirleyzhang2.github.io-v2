@@ -1,4 +1,4 @@
-<section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
+<section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
@@ -8,22 +8,24 @@
       </div>
     </div>
     <div class="row ">
-      <div class="col-lg-8 ml-auto">
-        <iframe src="{{ section.map }}" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <div class="col-lg-5">
+        <!-- <iframe src="{{ section.map }}" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+        <img src="{{ section.map }}" alt="" width="100%" height="100%">
       </div>
-      <div class="col-lg-4 ml-auto">
+      <div class="col-lg-7">
         <ul class="icons bulleted" >
-            <li class="icon fas fa-map-marker-alt">
+            <!-- <li class="icon fas fa-map-marker-alt"> -->
                 <h2 class="mt-0">{{ section.address.title }}</h2>
                 <p>{{ section.address.text }}</p>
                 <br/>
             </li>
-            <li class="icon fas fa-phone">
+            <!-- <li class="icon fas fa-phone"> -->
                 <h2 class="mt-0">{{ section.phone.title }}</h2>
                 <p>{{ section.phone.text }}</p>
                 <br/>
             </li>
         </ul>
+        {% include actions.html actions=section.actions %}
       </div>
     </div>
   </div>
