@@ -47,6 +47,14 @@ sections:
       #   text: Some not-so long text here.
       #   icon: fa-heart
 
+  - type: aside.html
+    section_id: aside
+    title: Recent Projects
+    actions:
+      - title: Learn more
+        url: 'projects'
+        class: btn-light
+  
   - type: portfolio.html
     # this section has always ID 'portfolio'
     #section_id: portfolio
@@ -57,7 +65,7 @@ sections:
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.jpg
+        icon: 1.png
         url: 'project'
       - title: Arup
         text: Structural Engineering Internship
@@ -65,11 +73,11 @@ sections:
         url: 'project'
       - title: Rocscience
         text: Geotechnical Software Internship
-        icon: 3.jpg
+        icon: 3.png
         url: 'project'
       - title: U of T Seismic Design Team
         text: Team Co-Captain
-        icon: 4.jpg
+        icon: 4.png
         url: 'project'
       - title: U of T Concrete Canoe Team
         text: Technical Director
@@ -79,14 +87,6 @@ sections:
         text: A Four Storey Steel Building
         icon: 6.jpg
         url: 'project'
-
-  # - type: aside.html
-  #   section_id: aside
-  #   title: Free Download at Start Bootstrap!
-  #   actions:
-  #     - title: Download Now!
-  #       url: https://startbootstrap.com/themes/creative/
-  #       class: btn-light
 
   # - type: members.html
   #   section_id: members
