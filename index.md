@@ -73,7 +73,7 @@ sections:
         url: 'project'
       - title: Rocscience
         text: Geotechnical Software Internship
-        icon: 3.png
+        icon: 3.PNG
         url: 'project'
       - title: U of T Seismic Design Team
         text: Team Co-Captain
