@@ -51,7 +51,7 @@ sections:
     text: >
       At the U of T Seismic Design Team, we design and analyze scaled models of a high-rise structure to withstand an equivalent M9.0 earthquake while supporting 20X its weight. In 2020, we achieved 6th place at an international competition by optimizing material cost, seismic performance, building footprint, and architectural flexibility. <br>
       <br>
-      Since last summer, I have also been working with 3 other team members to develop an in-house Python script. The purpose is to automate the repetitive design process by creating thousands of iterations based on user-defined constraints. The program then selects the most optimal design based on user-defined metrics. In addition, we are in the process of creating PyQT GUI interface that allows the user to view their design in 3D and modify constraint parameters.
+      Since last summer, I have also been working with 3 other team members to develop an in-house Python script. The purpose is to automate the repetitive design process by creating thousands of iterations based on user-defined constraints. The program then selects the most optimal design based on user-defined metrics. In addition, we are in the process of creating a PyQT GUI interface that allows the user to view their design in 3D and modify constraint parameters.
   actions:
    - title: 2020 Poster
      class: btn-info
@@ -79,7 +79,7 @@ sections:
     text: >
       In my Steel and Timber Design course, I worked with a team of 5 to design a four-storey steel structure as the final course project. Structural members and connection details were selected to resist gravity and wind load cases. The gravity and moment resisting frames consisted of tension and compression members, beam columns, beam-to-column connections, brace-to-gusset-plate connections, and column base plates. <br> 
       <br>
-      My responsibilities include constructing a 3D model in SAP2000, creating design spreadsheets in Excel to ensure that the structure satisfies ultimate limit state and serviceability limit state with the most economical sections, performing hand calculations for the column loads, shear tabs, base plates and gusset plates, and drafting connecting details in AutoCAD.
+      My responsibilities include constructing a 3D model in SAP2000, using design spreadsheets in Excel to ensure that the structure satisfies ultimate limit state and serviceability limit state with the most economical sections, performing hand calculations for structural components, and drafting connecting details in AutoCAD.
   actions:
    - title: Design Report
      class: btn-info
