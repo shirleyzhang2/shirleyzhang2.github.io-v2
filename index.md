@@ -150,7 +150,7 @@ sections:
     #  icon: fa-phone
     - title: E-Mail
       icon: fa-envelope
-      url: theshirleyzhang@gmail.com
+      url: mailto:theshirleyzhang@gmail.com
     - title: Linkedin
       icon: fa-linkedin
       icon_type: fab
