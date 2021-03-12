@@ -1,9 +1,9 @@
 ---
 layout: home
 header:
-  title: Shirley Zhang
+  title: Hi, I'm Shirley!
   text: >
-    Welcome to my website!
+    Welcome to my website&#128512;
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: About Me
-    text: I'm a 4th year Civil Engineering Student at the University of Toronto passionate about the interface between structural engineering and technology.
+    text: I'm a 4th year Civil Engineering Student at the University of Toronto passionate about the interface between civil engineering and technology.
     actions:
       - title: More about me
         #url: '#page-top'
@@ -27,17 +27,17 @@ sections:
     #background_style: bg-info
     title: My Interests
     services:
-      - title: Structural Design & Analysis
+      - title: Critical Infrastructure
         text: 
-        icon: fa-gem text-info
+        icon: fa-gem
         #url: https://startbootstrap.com/
-      - title: Automation
+      - title: System resilience
         text: 
         icon: fa-paper-plane
-      - title: Earthquake Engineering
+      - title: Automation
         text: 
         icon: fa-laptop-code
-      - title: Forensic Engineering
+      - title: Cooking
         text: 
         icon: fa-heart
       # - title: Other 1
@@ -141,7 +141,7 @@ sections:
 
   - type: contact.html
     section_id: contacts
-    title: Contact Me!
+    title: Connect with me!
     text: #>-
       #Ready to start your next project with us? Give us a call or send us an email
       #and we will get back to you as soon as possible!

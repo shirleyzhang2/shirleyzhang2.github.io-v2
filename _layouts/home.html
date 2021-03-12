@@ -4,13 +4,13 @@ layout: base
 
 <header class="masthead">
   <div class="container h-100">
-    <div class="row h-100 align-items-center justify-content-start text-left">
+    <div class="row h-75 align-items-center justify-content-start text-left">  
       <div class="col-lg-10 align-self-end">
         <h1 class="text-white-75 font-weight-bold">{{ page.header.title }}</h1>
         <hr class="divider my-4 ml-xl-1">
       </div>
       <div class="col-lg-8 align-self-baseline">
-        <p class="text-grey font-weight-light mb-5">{{ page.header.text }}</p>
+        <p class="text-grey font-weight-normal mb-5">{{ page.header.text }}</p>
         {% if page.header.action %}
         <a class="btn btn-primary btn-xl js-scroll-trigger" href="{{ page.header.action.url }}">{{ page.header.action.label }}</a>
         {% endif %}
