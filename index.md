@@ -14,7 +14,7 @@ sections:
     section_id: about
     background_style: bg-primary
     title: About Me
-    text: I'm a 4th year Civil Engineering Student at the University of Toronto passionate about the interface between civil engineering and technology.
+    text: I'm a 4th year Civil Engineering Student at the University of Toronto passionate about the interface between infrastructure and technology.
     actions:
       - title: More about me
         #url: '#page-top'
@@ -61,30 +61,30 @@ sections:
     #background_style: bg-dark
     projects:
       - title: Terrestrial Energy Inc.
-        text: Civil Engineering Internship
+        text: Nuclear containment design against aircraft & seismic loading
         # the images are located in:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
-        icon: 1.png
+        icon: aia.png
         url: 'project'
       - title: Arup
-        text: Structural Engineering Internship
-        icon: 2.jpg
+        text: Crowd-induced floor vibration mitigation
+        icon: osu.jpg
         url: 'project'
       - title: Rocscience
-        text: Geotechnical Software Internship
+        text: Liquefaction and settlement calculation
         icon: 3.PNG
         url: 'project'
       - title: U of T Seismic Design Team
-        text: Team Co-Captain
+        text: In-house design & analysis script for seismic-proof high rises
         icon: 4.png
         url: 'project'
       - title: U of T Concrete Canoe Team
-        text: Technical Director
+        text: In-house hull design script for concrete canoes
         icon: 5.jpg
         url: 'project'
-      - title: Steel Design Project
-        text: A Four Storey Steel Building
+      - title: U of T Centre for Resilience of Critical Infrastructure
+        text: Safeguarding Liquefied Natural Gas Storage
         icon: 6.jpg
         url: 'project'
 
