@@ -69,23 +69,23 @@ sections:
         url: 'project'
       - title: Arup
         text: Crowd-induced floor vibration mitigation
-        icon: osu.jpg
+        icon: buckeyethon.jpg
         url: 'project'
-      - title: Rocscience
-        text: Liquefaction and settlement calculation
-        icon: 3.PNG
+      - title: Rocscience Inc.
+        text: Geotechnical software development
+        icon: settle3.PNG
         url: 'project'
       - title: U of T Seismic Design Team
         text: In-house design & analysis script for seismic-proof high rises
-        icon: 4.png
+        icon: ab_main.PNG
         url: 'project'
       - title: U of T Concrete Canoe Team
         text: In-house hull design script for concrete canoes
-        icon: 5.jpg
+        icon: CAP.PNG
         url: 'project'
       - title: U of T Centre for Resilience of Critical Infrastructure
         text: Safeguarding Liquefied Natural Gas Storage
-        icon: 6.jpg
+        icon: lng.jpg
         url: 'project'
 
   # - type: members.html

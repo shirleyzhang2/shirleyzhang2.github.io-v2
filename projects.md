@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 #background_style: bg-info
-background_image: url('assets/img/backgrounds/bg3.jpg')
+background_image: url('assets/img/backgrounds/bg7.jpg')
 # Add a link to the the top menu
 menus:
   header:
-    title: Projects
+    title: Experiences
     weight: 2
 
 #https://unsplash.com/s/photos/architecture
@@ -16,27 +16,30 @@ sections:
   title: Terrestrial Energy Inc.
   map: assets/img/projects/te.png
   address:
-    title: Civil Engineering internship
+    title: Containment Design Against Aircraft & Seismic Loading
+    subtitle: Terrestrial Energy, 2020-2021
     text: >
-      I'm currently completing a 1-year internship at Terrestrial Energy Inc. as a Civil Engineering intern. I develop, analyze, and design structural systems for Integral Molten Salt Reactor (IMSR) nuclear power plants.
+      During my 1-year internship at Terrestrial Energy, I designed nuclear containment structures for Integral Molten Salt Reactors (IMSR) specifically against aircraft and seismic loading.
 
 - type: address.html
   section_id: project
   title: Arup
-  map: assets/img/projects/arup.jpg
+  map: assets/img/projects/buckeyethon.jpg
   address:
-    title: Structural Engineering internship
+    title: Crowd-induced Floor Vibration Mitigation
+    subtitle: Arup, 2020
     text: >
-      As a structural engineering intern at Arup, I modeled and designed steel and reinforced concrete structural systems to CSA standards using various analysis software, Excel spreadsheets, and hand calculations. I also contributed to a library of automated code calculations in C# to improve project quality and efficiency. In addition, I worked with a multi-disciplinary group of interns from North America to provide alternative solutions to a crowd-induced floor deflection problem.
+      During my summer internship at Arup, I performed a crowd-induced floor deflection mitigation study for Ohio State University. I also contributed to a C# application that automated design calculations to improve project efficiency.
 
 - type: address.html
   section_id: project
   title: Rocscience Inc.
-  map: assets/img/projects/rocscience.PNG
+  map: assets/img/projects/settle3.PNG
   address:
-    title: Geotechnical Software internship
+    title: Geotechnical Software Development
+    subtitle: RocScience, 2019
     text: >
-      In the summer of 2019, I worked at Rocscience Inc. as a Geotechnical Software intern where I developed liquefaction and ground improvement features for a 3D Soil Analysis Software using C++. My Contributions ranged from theoretical research, backend development, user interface design, and documentation. More specifically, I created and integrated dry sand settlement analysis into the existing liquefaction module, and I implemented calculation methods for the effect of ground improvement on settlement as well as soil stiffness.
+      During my summer internship at Rocscience, I developed liquefaction and ground improvement features for a 3D Soil Analysis Software using C++. My Contributions ranged from theoretical research, backend development, user interface design, and documentation.
   actions:
    - title: Settle3 Update
      class: btn-info
@@ -44,14 +47,13 @@ sections:
 
 - type: address.html
   section_id: project
-  title: University of Toronto Seismic Design Team
+  title: Team Co-captain
   map: assets/img/projects/tower_floorplans.png
   address:
-    title: Team Co-captain
+    title: Design & analysis script for seismic-proof high rises
+    subtitle: U of T Seismic Design Team, 2018 - current
     text: >
-      At the U of T Seismic Design Team, we design and analyze scaled models of a high-rise structure to withstand an equivalent M9.0 earthquake while supporting 20X its weight. In 2020, we achieved 6th place at an international competition by optimizing material cost, seismic performance, building footprint, and architectural flexibility. <br>
-      <br>
-      Since last summer, I have also been working with 3 other team members to develop an in-house Python script. The purpose is to automate the repetitive design process by creating thousands of iterations based on user-defined constraints. The program then selects the most optimal design based on user-defined metrics. In addition, we are in the process of creating a PyQT GUI interface that allows the user to view their design in 3D and modify constraint parameters.
+      As a co-captain, I lead the design of a scaled high-rise structure that can withstand an equivalent M9.0 earthquake while supporting 20 times its weight. Working with 3 other members, we also developed an in-house Python program with a Qt interface that automates the repetitive design process by creating thousands of iterations based on user-defined constraints.
   actions:
    - title: 2020 Poster
      class: btn-info
@@ -59,30 +61,33 @@ sections:
 
 - type: address.html
   section_id: project
-  title: University of Toronto Concrete Canoe Team
+  title: U of T Concrete Canoe Team, 2017 - current
   map: assets/img/projects/canoe_cropped.jpg
   address:
-    title: Technical Director
+    title: Hull design script for concrete canoes
+    subtitle: U of T Concrete Canoe Team, 2017 - current
     text: >
-      As the structural analysis lead last year, I work with another team member to ensure that the canoe can withstand all load cases including construction, transportation and paddling. My main responsibilities include conducting structural analysis to determine levels of stress experienced throughout the canoe in a variety of loading cases, as well as utilizing multiple methods of structural analysis such as in-house C++ programs and commercial software (Excel/Matlab). In addition, I contributed to a technical report that placed 2nd at the 2019 National Concrete Canoe Competition.
+      As a technical director and structural lead, I determined the levels of stress experienced throughout the canoe in a variety of static and dynamic loading cases (e.g., construction, transport, paddling). I also contributed to an in-house C++ program that optimizes hull geometry using fluid-structure interaction principles.
   actions:
    - title: 2020 Report (Excerpt)
      class: btn-info
-     url: 'assets/doc/(2020) 704 Spadina.pdf'
+     url: 'assets/doc/spadina_hull_structural.pdf'
 
 - type: address.html
   section_id: project
-  title: Steel Design Project
-  map: assets/img/backgrounds/bg10.jpg
+  title: 
+  map: assets/img/projects/lng.jpg
   address:
-    title: A Four Storey Steel Building
+    title: Safeguarding Liquefied Natural Gas Storage
+    subtitle: U of T Centre for Resilience of Critical Infrastructure, 2018 - current
     text: >
-      In my Steel and Timber Design course, I worked with a team of 5 to design a four-storey steel structure as the final course project. Structural members and connection details were selected to resist gravity and wind load cases. The gravity and moment resisting frames consisted of tension and compression members, beam columns, beam-to-column connections, brace-to-gusset-plate connections, and column base plates. <br> 
-      <br>
-      My responsibilities include constructing a 3D model in SAP2000, using design spreadsheets in Excel to ensure that the structure satisfies ultimate limit state and serviceability limit state with the most economical sections, performing hand calculations for structural components, and drafting connecting details in AutoCAD.
+      As a research assistant in the Seismic Resilient Group, I contributed to 2 journal publications on the design of analysis of large Liquefied Natural Gas tanks subjected to seismic loading.
   actions:
-   - title: Design Report
-     class: btn-info
-     url: 'assets/doc/CIV312_final_submission.pdf'
+  - title: Journal paper
+    class: btn-info
+    url: 'https://doi.org/10.1155/2020/8889055'
 
 ---
+<!-- In my Steel and Timber Design course, I worked with a team of 5 to design a four-storey steel structure as the final course project. Structural members and connection details were selected to resist gravity and wind load cases. The gravity and moment resisting frames consisted of tension and compression members, beam columns, beam-to-column connections, brace-to-gusset-plate connections, and column base plates. <br> 
+<br>
+My responsibilities include constructing a 3D model in SAP2000, using design spreadsheets in Excel to ensure that the structure satisfies ultimate limit state and serviceability limit state with the most economical sections, performing hand calculations for structural components, and drafting connecting details in AutoCAD. -->

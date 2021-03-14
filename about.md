@@ -21,7 +21,7 @@ sections:
       <br>
       In addition to creating innovative solutions for modern infrastructure projects, I am also interested in the management of existing infrastructure with a focus on security and resiliency. Throughout my undergrad, I have gained valuable industry and research experience in the critical infrastructure sector, from designing nuclear containments against aircraft crash to improving the seismic resiliency of large Liquefied Natural Gas storage tanks. I am also working on an undergraduate thesis to predict and mitigate vulnerability in ageing bridge networks.<br>
       <br>
-      With a solid background in civil engineering and additional knowledge in computational and data science tools, I look forward to improving the efficiency and resiliency of complex infrastructure systems using a multi-disciplinary approach.  
+      With a solid background in civil engineering and additional knowledge in computational and data science, I look forward to improving the efficiency and resiliency of complex infrastructure systems using a multi-disciplinary approach.  
 
 # During my 1-year internship at Terrestrial Energy Inc., I helped develop containment buildings against aircraft impact and seismic loading for nuclear power plants. Throughout my undergrad, I have contributed to two journal publications on the seismic resilience of large Liquefied Natural Gas storage tanks. Last summer, I also worked at a global structural design firm to solve a crowd-induced floor vibration problem for university facilities. 
 

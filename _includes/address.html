@@ -1,12 +1,12 @@
 <section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
   <div class="container">
-    <div class="row justify-content-center">
+    <!-- <div class="row justify-content-center">
       <div class="col-lg-8 text-center">
         <h2 class="mt-0">{{ section.title }}</h2>
         <hr class="divider my-4">
         <p class="text-muted mb-5">{{ section.text }}</p>
       </div>
-    </div>
+    </div> -->
     <div class="row ">
       <div class="col-lg-5">
         <!-- <iframe src="{{ section.map }}" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe> -->
@@ -15,7 +15,9 @@
       <div class="col-lg-7">
         <ul class="icons bulleted" >
             <!-- <li class="icon fas fa-map-marker-alt"> -->
-                <h2 class="mt-0">{{ section.address.title }}</h2>
+                <h4 class="mt-0 text-blue">{{ section.address.title }}</h4>
+                <h5 class="mt-0 text-grey">{{ section.address.subtitle }}</h5>
+                <hr class="divider my-4 ml-xl-1">
                 <p>{{ section.address.text }}</p>
                 <br/>
             </li>
