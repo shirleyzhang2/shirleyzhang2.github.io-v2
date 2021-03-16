@@ -3,7 +3,7 @@ layout: home
 header:
   title: Hi, I'm Shirley!
   text: >
-    Welcome to my website&#128512;
+    Welcome to my website&#128515;
   action: # action button is optional
     label: Find Out More
     url: '#about'
@@ -77,7 +77,7 @@ sections:
         url: 'project'
       - title: U of T Seismic Design Team
         text: In-house design & analysis script for seismic-proof high rises
-        icon: ab_main.PNG
+        icon: ab_main.png
         url: 'project'
       - title: U of T Concrete Canoe Team
         text: In-house hull design script for concrete canoes

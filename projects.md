@@ -39,7 +39,7 @@ sections:
     title: Geotechnical Software Development
     subtitle: RocScience, 2019
     text: >
-      During my summer internship at Rocscience, I developed liquefaction and ground improvement features for a 3D Soil Analysis Software using C++. My Contributions ranged from theoretical research, backend development, user interface design, and documentation.
+      During my summer internship at Rocscience, I developed liquefaction and ground improvement features for a 3D Soil Analysis Software using C++. My contributions involved literary review, backend development, user interface design, and documentation.
   actions:
    - title: Settle3 Update
      class: btn-info
@@ -67,7 +67,7 @@ sections:
     title: Hull design script for concrete canoes
     subtitle: U of T Concrete Canoe Team, 2017 - current
     text: >
-      As a technical director and structural lead, I determined the levels of stress experienced throughout the canoe in a variety of static and dynamic loading cases (e.g., construction, transport, paddling). I also contributed to an in-house C++ program that optimizes hull geometry using fluid-structure interaction principles.
+      As a technical director and structural lead, I determined the levels of stress experienced throughout the canoe in a variety of static and dynamic loading cases such as construction, transport, and paddling. I also contributed to an in-house C++ program that optimizes hull geometry using fluid-structure interaction principles.
   actions:
    - title: 2020 Report (Excerpt)
      class: btn-info
