@@ -34,7 +34,7 @@ sections:
       - title: System resilience
         text: 
         icon: fa-paper-plane
-      - title: Automation
+      - title: Programming
         text: 
         icon: fa-laptop-code
       - title: Cooking
